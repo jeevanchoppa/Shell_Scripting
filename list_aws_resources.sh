@@ -3,6 +3,7 @@
 ##########################
 # Author: Jeevan
 # Date: 09/09/25
+# Version: v0.1
 # Description: This shell scripts list ec2-instances ids, s3 buckets, IAM users
 ##########################
 
