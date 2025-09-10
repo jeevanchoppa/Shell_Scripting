@@ -13,3 +13,4 @@ aws ec2 describe-instances | jq '.Reservations[].Instances[].InstanceId'
 aws s3 ls
 
 aws iam list-users
+aws s3 ls
